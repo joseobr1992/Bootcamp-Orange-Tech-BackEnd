@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bootcamp-Orange-Tech-BackEnd.iml" filepath="$PROJECT_DIR$/Bootcamp-Orange-Tech-BackEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orientada a Objetos/Bootcamp-Orange-Tech-desafio-poo-dio/Bootcamp-Orange-Tech-desafio-poo-dio.iml" filepath="$PROJECT_DIR$/Programação Orientada a Objetos/Bootcamp-Orange-Tech-desafio-poo-dio/Bootcamp-Orange-Tech-desafio-poo-dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orientada a Objetos/Carro/Carro.iml" filepath="$PROJECT_DIR$/Programação Orientada a Objetos/Carro/Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Camarote-do-Blue-Cold-Ice-Cubes/Desafio-Camarote-do-Blue-Cold-Ice-Cubes.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Camarote-do-Blue-Cold-Ice-Cubes/Desafio-Camarote-do-Blue-Cold-Ice-Cubes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Dc-Monalds/Desafio-Dc-Monalds.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Dc-Monalds/Desafio-Dc-Monalds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Download-de-Pacotes/Desafio-Download-de-Pacotes.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Download-de-Pacotes/Desafio-Download-de-Pacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Imoveis-Disponiveis/Desafio-Imoveis-Disponiveis.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Imoveis-Disponiveis/Desafio-Imoveis-Disponiveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Industria-da-Multa/Desafio-Industria-da-Multa.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Industria-da-Multa/Desafio-Industria-da-Multa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Leitura-Gertrudes/Desafio-Leitura-Gertrudes.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Leitura-Gertrudes/Desafio-Leitura-Gertrudes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Lojinha-Doce/Desafio-Lojinha-Doce.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Lojinha-Doce/Desafio-Lojinha-Doce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Mesada-Sobrinho/Desafio-Mesada-Sobrinho.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Basicos com Desafios de Codigo Java/Desafio-Mesada-Sobrinho/Desafio-Mesada-Sobrinho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Pontos-Carteira/Desafio-Pontos-Carteira.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Pontos-Carteira/Desafio-Pontos-Carteira.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Salvando-Musica/Desafio-Salvando-Musica.iml" filepath="$PROJECT_DIR$/Dominando Algoritmos Intermediarios com Desafios de Codigo Java/Desafio-Salvando-Musica/Desafio-Salvando-Musica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entendento Metodos Java/Entendento Metodos Java.iml" filepath="$PROJECT_DIR$/Entendento Metodos Java/Entendento Metodos Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas de Repeticao e Arrays em Java/ExerciciosEstruturasDeArrays/ExerciciosEstruturasDeArrays.iml" filepath="$PROJECT_DIR$/Estruturas de Repeticao e Arrays em Java/ExerciciosEstruturasDeArrays/ExerciciosEstruturasDeArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas de Repeticao e Arrays em Java/ExerciciosEstruturasDeRepeticao/ExerciciosEstruturasDeRepeticao.iml" filepath="$PROJECT_DIR$/Estruturas de Repeticao e Arrays em Java/ExerciciosEstruturasDeRepeticao/ExerciciosEstruturasDeRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orientada a Objetos/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Programação Orientada a Objetos/Heranca/Heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logica Condicional e Controle de Fluxo Java/Logica Condicional e Controle de Fluxo Java.iml" filepath="$PROJECT_DIR$/Logica Condicional e Controle de Fluxo Java/Logica Condicional e Controle de Fluxo Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programação Orientada a Objetos/Trabalhando-com-Collections-Java/Trabalhando-com-Collections-Java.iml" filepath="$PROJECT_DIR$/Programação Orientada a Objetos/Trabalhando-com-Collections-Java/Trabalhando-com-Collections-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aprendendo a Sintaxe Java/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/Aprendendo a Sintaxe Java/calculadora/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aprendendo a Sintaxe Java/java-anatomia-de-classes/java-anatomia-de-classes.iml" filepath="$PROJECT_DIR$/Aprendendo a Sintaxe Java/java-anatomia-de-classes/java-anatomia-de-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aprendendo a Sintaxe Java/java-trilha-basico/java-trilha-basico.iml" filepath="$PROJECT_DIR$/Aprendendo a Sintaxe Java/java-trilha-basico/java-trilha-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aprendendo a Sintaxe Java/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/Aprendendo a Sintaxe Java/sistema-smart-tv/sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aprendendo a Sintaxe Java/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/Aprendendo a Sintaxe Java/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
